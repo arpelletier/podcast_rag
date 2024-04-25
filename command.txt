@@ -1,1 +1,1 @@
-python prepare_download.py https://feeds.acast.com/public/shows/secularbuddhism ./files.txt
+python download_audio.py https://feeds.acast.com/public/shows/secularbuddhism ./audio
