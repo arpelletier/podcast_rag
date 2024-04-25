@@ -5,4 +5,5 @@ The goal of this project is to create a Retrieval Augmented Generation system us
 So far, there is only one script which downloads the podcast .mp3 data using the download_audio.py script. Usage below. 
 
 Usage: python download_audio.py <rss_feed_url> <output_folder>
-Example: python download_audio.py <rss_feed_url> ./audio
+
+Example: python download_audio.py https://feeds.acast.com/public/shows/secularbuddhism ./audio
